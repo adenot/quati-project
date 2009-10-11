@@ -12,7 +12,9 @@ A Quati box connected to a switch span port could reveal important data to a com
 
 = Next Steps =
 
-A brainstorm of ideas follows...
+The TODO list for this project follows...
 
+  # Use GoogleCode's SVN
   # Recode the sensor.py in C++ (faster!)
-  # 
+  # Solve some problems with Python for web (or recode in PHP)
+  # More to come...
