@@ -1,0 +1,18 @@
+# Introduction #
+
+The main idea of this project is build a passive packet monitoring logging interesting packets to a database (SQLite).
+
+It's a opportunity to the author and contributors to learn the in-depths of many protocols, from HTTP to P2P. This project should in the future be able to identify and log every network activity, like email and IM messages, webmail logons or http website access.
+
+## Why? ##
+
+A Quati box connected to a switch span port could reveal important data to a company auditor. Of course all this information should be private and the users should be informed that their activities are logged.
+
+# Next Steps #
+
+The TODO list for this project follows...
+
+  1. Use GoogleCode's SVN
+  1. Recode the sensor.py in C++ (faster!)
+  1. Solve some problems with Python for web (or recode in PHP)
+  1. More to come...
