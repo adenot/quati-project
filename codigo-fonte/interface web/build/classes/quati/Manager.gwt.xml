@@ -1,0 +1,26 @@
+<module>
+
+	<!-- Inherit the core Web Toolkit stuff.                  -->
+	<inherits name='com.google.gwt.user.User'/>
+	
+	<!-- Inherit the GWTExt Toolkit library configuration.	  -->
+	<inherits name='com.gwtext.GwtExt' />
+
+	<inherits name='com.google.gwt.json.JSON' />
+
+	<!-- Specify the app entry point class.                   -->
+	<entry-point class='quati.client.Manager'/>
+  
+  	<inherits name="com.google.gwt.user.theme.standard.Standard"/>
+  	<!-- <inherits name="com.google.gwt.user.theme.chrome.Chrome"/> -->
+  	<!-- <inherits name="com.google.gwt.user.theme.dark.Dark"/> -->
+
+	<stylesheet src="js/ext/resources/css/ext-all.css" />
+	<script src="js/ext/adapter/ext/ext-base.js" />
+	<script src="js/ext/ext-all.js" />
+	
+    <stylesheet src="js/ext/resources/css/xtheme-gray.css" /> 
+	
+	<stylesheet src='Quati.css' />
+	
+</module>

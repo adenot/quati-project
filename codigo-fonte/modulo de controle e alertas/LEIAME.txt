@@ -1,0 +1,21 @@
+Descricao dos arquivos dessa pasta:
+
+agent.sh, messenger.sh, sensor.sh
+- scripts de inicializacao dos modulos.
+  devem ser executados da forma:
+  ./agent.sh start|restart|stop
+
+quati.db
+- banco de dados SQLite
+
+quati.sql
+- SQL do banco de dados
+
+config.xml
+- arquivo XML com configuracoes iniciais
+
+request.py
+- script CGI que permite a interface web acessar os modulos
+
+src/
+- pasta com o codigo-fonte dos modulos

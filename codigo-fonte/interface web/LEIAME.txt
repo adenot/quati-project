@@ -1,0 +1,12 @@
+O codigo desenvolvido para a interface web se encontra nas pastas:
+
+src/quati/client/
+- os scripts java que compoem a interface web
+
+src/quati/public/
+- html, css e javascript de auxilio
+
+src/quati/Manager.gwt.xml
+- contem as diretivas para o framework
+
+Todos os outros arquivos dessa pasta fazem parte do framework GWT e da extensao ExtJS.

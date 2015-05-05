@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<sensor>
+		<interface>eth0</interface>
+	</sensor>
+	<agent>
+		<host>0.0.0.0</host>
+		<port>26</port>
+	</agent>
+	<messenger>
+		<login>
+			<server>talk.google.com</server>
+			<port>5223</port>
+			<user>quati.project</user>
+			<pass>visual12</pass>
+		</login>
+		<administrator>adenot@gmail.com</administrator>
+		<blocks>
+		</blocks>
+	</messenger>
+</config>
